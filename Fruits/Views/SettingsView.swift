@@ -56,7 +56,7 @@ struct SettingsView: View {
               SettingsRowView(name: "Developer", content: "Withacker Futema")
               SettingsRowView(name: "Designer")
               SettingsRowView(name: "Compatibility", content: "iOS 14.1 or above")
-              SettingsRowView(name: "Instagram", linkLabel: "witha.js", linkDestination: "instagram.com/girl.coding")
+              SettingsRowView(name: "Instagram", linkLabel: "witha.js", linkDestination: "instagram.com/witha.js")
               SettingsRowView(name: "SwiftUI", content: "4.0")
               SettingsRowView(name: "Version", content: "1.1.0")
             }
